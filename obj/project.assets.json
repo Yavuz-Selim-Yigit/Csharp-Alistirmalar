@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\Git\\Csharp-Alistirmalar\\Csharp-Alistirmalar.csproj",
-      "projectName": "Csharp-Alistirmalar",
-      "projectPath": "O:\\Git\\Csharp-Alistirmalar\\Csharp-Alistirmalar.csproj",
+      "projectUniqueName": "O:\\Git\\Csharp-Alistirmalar\\01-toplama-islemi.csproj",
+      "projectName": "01-toplama-islemi",
+      "projectPath": "O:\\Git\\Csharp-Alistirmalar\\01-toplama-islemi.csproj",
       "packagesPath": "C:\\Users\\yavuz\\.nuget\\packages\\",
       "outputPath": "O:\\Git\\Csharp-Alistirmalar\\obj\\",
       "projectStyle": "PackageReference",

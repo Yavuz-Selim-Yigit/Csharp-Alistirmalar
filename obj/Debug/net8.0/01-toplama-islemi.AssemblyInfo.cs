@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Csharp-Alistirmalar")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("01-toplama-islemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1141403607cc153c03ee56b4e45de67e1985f90a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Csharp-Alistirmalar")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Csharp-Alistirmalar")]
+[assembly: System.Reflection.AssemblyProductAttribute("01-toplama-islemi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("01-toplama-islemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

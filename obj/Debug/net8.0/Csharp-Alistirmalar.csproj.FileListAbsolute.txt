@@ -12,3 +12,4 @@ O:\Git\Csharp-Alistirmalar\obj\Debug\net8.0\refint\Csharp-Alistirmalar.dll
 O:\Git\Csharp-Alistirmalar\obj\Debug\net8.0\Csharp-Alistirmalar.pdb
 O:\Git\Csharp-Alistirmalar\obj\Debug\net8.0\Csharp-Alistirmalar.genruntimeconfig.cache
 O:\Git\Csharp-Alistirmalar\obj\Debug\net8.0\ref\Csharp-Alistirmalar.dll
+O:\Git\Csharp-Alistirmalar\obj\Debug\net8.0\Csharp-Alistirmalar.sourcelink.json
